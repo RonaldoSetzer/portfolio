@@ -1,11 +1,14 @@
-title: Ronaldo Setzer
+title: Ronaldo Santiago
 email: ronaldo.setzer@gmail.com
 description: > 
   Just a simple portfolio.
 baseurl: "/portfolio"
 url: "https://ronaldosetzer.github.io"
+portfolio_username: Ronaldo Santiago
 twitter_username: RonaldoSetzer
 github_username:  RonaldoSetzer
+duolingo_username: Ronaldo.Setzer
+linkedin_url: https://www.linkedin.com/profile/view?id=59617502
 
 # Build settings
 markdown: kramdown
