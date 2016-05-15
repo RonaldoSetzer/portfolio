@@ -14,10 +14,9 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}/about/">about</a>
+        {% for portfolio-type in site.data.portfolio-types %}
+          <a class="page-link" href="{{site.baseurl}}/{{portfolio-type.folder}}">{{ portfolio-type.title }}</a>
         {% endfor %}
       </div>
     </nav>

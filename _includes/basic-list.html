@@ -1,0 +1,12 @@
+<ul>
+  {% for listItem in site.pages %}
+    {% if listItem.type == include.type %}
+      <li>
+        <a href="{{site.baseurl}}{{listItem.permalink}}">
+          <h5>{{listItem.title}}</h5>
+          <p>{{listItem.category}}</p>
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

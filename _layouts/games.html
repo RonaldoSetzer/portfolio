@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<strong>Games</strong>
+
+<nav>
+  <ul>
+    {% for planet in site.data.game %}
+      <li>
+       {{planet.title}}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+{{content}}

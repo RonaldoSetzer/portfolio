@@ -4,19 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Games</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <img src="carousel_sword_of_unknown.jpeg">
-      </li>
+    {% for portfolio-type in site.data.portfolio-types %}
+      <div width="320">
+		
+				<a href="{{site.baseurl}}/{{portfolio-type.folder}}"><h3>{{ portfolio-type.title }}</h3></a>
+      </div>
     {% endfor %}
-  </ul>
-
+    
 </div>
