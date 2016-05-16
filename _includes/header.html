@@ -2,7 +2,8 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/"><strong>Ronaldo Santiago</strong><br>
+   <b style="line-height: 16px;">Game Developer</b></a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,13 +15,14 @@
       </a>
 
       <div class="trigger">
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}/">home</a>
       <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}/about/">about</a>
         {% for portfolio-type in site.data.portfolio-types %}
-          <a class="page-link" href="{{site.baseurl}}/{{portfolio-type.folder}}">{{ portfolio-type.title }}</a>
+          <a class="page-link" href="{{site.baseurl}}{{portfolio-type.page-url}}"><uppercase>{{ portfolio-type.title }}</uppercase></a>
         {% endfor %}
       </div>
     </nav>
-
   </div>
 
+  
 </header>

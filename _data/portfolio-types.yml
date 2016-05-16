@@ -1,8 +1,15 @@
-- title: games
-  folder: games
+- title: Games
+  page-url: /games/
+  thumb: thumb_sword_of_unknown.jpeg
 
-- title: websites
-  folder: websites
+- title: Design
+  page-url: /design/
+  thumb: thumb_sword_of_unknown.jpeg
 
-- title: lab
-  folder: lab
+- title: Websites
+  page-url: /websites/
+  thumb: thumb_sword_of_unknown.jpeg
+
+- title: Lab
+  page-url: /lab/
+  thumb: thumb_sword_of_unknown.jpeg

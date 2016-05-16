@@ -1,16 +1,18 @@
 ---
 layout: default
 ---
+<article class="post">
 
-<div class="home">
+  <header class="post-header">
+    <h4 class="post-title">Portfolio</h4>
+  </header>
 
-  <h1 class="page-heading">Games</h1>
+  <div class="post-content">
+	<div class="home">
 
-    {% for portfolio-type in site.data.portfolio-types %}
-      <div width="320">
-		
-				<a href="{{site.baseurl}}/{{portfolio-type.folder}}"><h3>{{ portfolio-type.title }}</h3></a>
-      </div>
-    {% endfor %}
-    
-</div>
+		{% include basic-list-by-data.html type = site.data.portfolio-types %}
+
+	</div>
+  </div>
+
+</article>
