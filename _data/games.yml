@@ -21,7 +21,12 @@
 - title: "Corny"
   page-url: /games/corny/
   thumb: thumb_corny_escape.jpeg
-  category: "web"
+  category: "mobile"
+
+- title: "Sheep Sheep"
+  page-url: /games/sheep_sheep/
+  thumb: thumb_sheep_sheep.jpeg
+  category: "mobile"
 
 - title: "Sudoku"
   page-url: /games/sudoku/

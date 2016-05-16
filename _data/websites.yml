@@ -1,11 +1,15 @@
-- title: "Carpa"
-  page-url: /games/carpa/
-  thumb: thumb_buraco.jpeg
+- title: "Carpa Design"
+  page-url: /websites/carpa_design/
+  thumb: thumb_carpa_design.jpeg
 
 - title: "O Quê?"
-  page-url: /games/buraco/
-  thumb: thumb_buraco.jpeg
+  page-url: /websites/oque/
+  thumb: thumb_oque.jpeg
 
 - title: "Pinpix"
-  page-url: /games/pinpix/
-  thumb: thumb_buraco.jpeg
+  page-url: /websites/pinpix/
+  thumb: thumb_pinpix.jpeg
+
+- title: "Nicephotos"
+  page-url: /websites/nicephotos_photobook/
+  thumb: thumb_nicephotos_photobook.jpeg

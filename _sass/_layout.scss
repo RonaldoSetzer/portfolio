@@ -257,26 +257,26 @@
 }
 .basic-list{
 
-    margin-left: 0;
+    margin-left: 10;
     margin-right: 0;
     li {
         display: block; float: left; 
-        margin: 0 0px 12px 5px; 
+        margin: 0 0px 12px 15px; 
         vertical-align: top;
-        background-color: $brand-color;
+        background-color: $brand-color-light;
+        border: 1px solid $brand-color-dark;
     }
     a {
         display: block;
         font-size: $base-font-size;
-        width: 365px;
-        box-shadow: 0px 4px 14px rgba(0,0,0,0.1);
+        width: 322px;
         position: relative;
-        color: $background-color;
+        color: $brand-color-dark;
     }
     img {
         display: inline-block;
-        width: 363px;
-        height: 230px;
+        width: 320px;
+        height: 220px;
         padding: 1px 1px 1px 1px
     }
     span {

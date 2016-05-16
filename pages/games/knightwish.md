@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: game
 title: "Knightwish"
 category: "web"
 type: game

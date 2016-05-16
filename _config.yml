@@ -5,9 +5,9 @@ description: >
 baseurl: "/portfolio"
 url: "https://ronaldosetzer.github.io"
 portfolio_username: Ronaldo Santiago
-twitter_username: RonaldoSetzer
-github_username:  RonaldoSetzer
-duolingo_username: Ronaldo.Setzer
+twitter_url: https://www.twitter.com/RonaldoSetzer
+github_url:  https://github.com/RonaldoSetzer
+duolingo_url: https://www.duolingo.com/Ronaldo.Setzer
 linkedin_url: https://www.linkedin.com/profile/view?id=59617502
 
 # Build settings

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h4 class="post-title">{{ page.title }}</h4>
+  </header>
+
+  <div class="post-content">
+
+<iframe src="//giphy.com/embed/3oGRFnCeEmqTQUoEi4?html5=true&hideSocial=true" width="480" height="316" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+
+    <ul>
+    	{% if page.cover %}<li> <img src="{{site.baseurl}}/images/cover/{{page.cover}}"/></li>{% endif%}
+    	{% if page.description %}<li><Strong>Description: </Strong>{{page.description}}.</li>{% endif%}
+      {% if page.android %}<li><Strong>Android: </Strong><a href="{{page.android}}">{{page.android}}</a></li>{% endif%}
+      {% if page.gameplay-gif %}<li><Strong>Gameplay(gif): </Strong><a href="{{page.gameplay-gif}}">{{page.gameplay-gif}}</a></li>{% endif%}
+      {% if page.gameplay-youtube %}<li><Strong>Gameplay(video): </Strong><a href="{{page.gameplay-youtube}}">{{page.gameplay-youtube}}</a></li>{% endif%}
+    	{% if page.ios %}<li><Strong>IOS: </Strong><a href="{{page.ios}}">{{page.ios}}</a></li>{% endif%}
+    	{% if page.language %}<li><Strong>Programming Language: </Strong>{{page.language}}.</li>{% endif%}
+    	{% if page.platform %}<li><Strong>Platform: </Strong>{{page.platform}}.</li>{% endif%}
+    	{% if page.category %}<li><Strong>Category: </Strong>{{page.category}}.</li>{% endif%}
+    	{% if page.role %}<li><Strong>Role: </Strong>{{page.role}}.</li>{% endif%}
+    	{% if page.framework %}<li><Strong>Framework: </Strong>{{page.framework}}.</li>{% endif%}
+    </ul>
+  </div>
+
+</article>

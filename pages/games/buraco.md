@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: game
 title: "Buraco"
 category: "web"
 type: game

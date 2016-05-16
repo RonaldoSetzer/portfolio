@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Buraco"
+title: "Madruga World"
 category: "prototype"
 type: lab
-permalink: /lab/isometric_game/
+permalink: /lab/madruga_world/
 ---
