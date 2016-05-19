@@ -123,6 +123,23 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    li{
+        width:33px;
+        display: block; float: left; 
+        margin: 0 0px 12px 15px; 
+        vertical-align: top;
+    }
+    a {
+        display: block;
+        width: 32px;
+        position: relative;
+    }
+    img {
+        display: inline-block;
+        width: 32px;
+        height: 32px;
+        padding: 1px 1px 1px 1px
+    }
 }
 
 .footer-col-wrapper {
