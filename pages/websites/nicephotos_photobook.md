@@ -2,6 +2,13 @@
 layout: page
 title: "Nicephotos - Photobook"
 category: "flex-application/web"
-type: web
-permalink: /websites/nicephotos/
+permalink: /websites/nicephotos_photobook/
 ---
+
+![cover]({{site.baseurl}}/images/thumb/thumb_nicephotos_photobook.jpeg)
+
++ **Category:** Web Application.
++ **Platform:** web.
++ **Language:** Actionscript 3 / FlexFramework.
++ **Tecnologies:** #FlexFramework.
++ **Role:** Flash Developer / Team Leader.

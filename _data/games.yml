@@ -3,23 +3,23 @@
   thumb: thumb_sword_of_unknown.jpeg
   category: "mobile"
 
-- title: "Skyworld: The Infinity Path"
-  page-url: /games/skyworld/
-  thumb: thumb_skyworld.jpeg
-  category: "mobile"
-
 - title: "Music City"
   page-url: /games/music_city/
   thumb: thumb_music_city.jpeg
   category: "web-facebook"
 
-- title: "Buraco"
-  page-url: /games/buraco/
-  thumb: thumb_buraco.jpeg
+- title: "Jogatina"
+  page-url: /games/jogatina/
+  thumb: thumb_jogatina.jpeg
   category: "web"
 
+- title: "Skyworld: The Infinity Path"
+  page-url: /games/skyworld/
+  thumb: thumb_skyworld.jpeg
+  category: "mobile"
+  
 - title: "Corny"
-  page-url: /games/corny/
+  page-url: /games/corny_escape/
   thumb: thumb_corny_escape.jpeg
   category: "mobile"
 
@@ -41,4 +41,19 @@
 - title: "KinghtWish"
   page-url: /games/kinghtwish/
   thumb: thumb_knightwish.jpeg
+  category: "web"
+
+- title: "Mario Card 2"
+  page-url: /games/mario_card_2/
+  thumb: thumb_mario_card_2.jpeg
+  category: "web"
+
+- title: "Mario Card - Memory Game"
+  page-url: /games/mario_card/
+  thumb: thumb_mario_card.jpeg
+  category: "web"
+
+- title: "Snake Game"
+  page-url: /games/snake_game/
+  thumb: thumb_snake_game.jpeg
   category: "web"

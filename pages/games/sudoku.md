@@ -1,9 +1,15 @@
 ---
-layout: game
+layout: page
 title: "Sudoku"
 category: "mobile"
-type: game
 permalink: /games/sudoku/
-android: https://play.google.com/store/apps/details?id=air.setzer.sudoku
-ios: https://itunes.apple.com/us/app/sudoku-setzer/id1015680356
 ---
+
+![cover]({{site.baseurl}}/images/thumb/thumb_sudoku.jpeg)
+
++ **Category:** Puzzle.
++ **Platform:** Mobile.
++ **Language:** Actionscript 3.
++ **Tecnologies:** #StarlingFW, #StarlingMVC, #Feathers, #AdobeAir
++ **Role:** Developer / Graphic Design.
++ **Download:** [Android](https://play.google.com/store/apps/details?id=air.setzer.sudoku)  /  [IOS](https://itunes.apple.com/us/app/sudoku-setzer/id1015680356)

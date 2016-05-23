@@ -1,15 +1,15 @@
 ---
-layout: game
+layout: page
 title: "Sword of Unknown"
 category: "mobile"
-type: game
 permalink: /games/sword_of_unknown/
-cover: cover_sword_of_unknown.jpeg
-
-description: "it is an adventure/RPG game"
-language: Actionscript/Adobe Air
-platform: Mobile
-category: "Adventure/RPG"
-role: Game Developer/ Game Design
-framework: StarlingMVC, Starling, Feathers, Citrus
 ---
+
+<iframe src="//giphy.com/embed/3oGRFnCeEmqTQUoEi4" width="480" height="316" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
++ **Category:** Adventure / RPG.
++ **Platform:** Mobile.
++ **Language:** Actionscript 3.
++ **Tecnologies:** #StarlingFW, #StarlingMVC, #Feathers, #AdobeAir, #Citrus
++ **Role:** Developer / Graphic Design.
++ **Download:** [Android](https://play.google.com/store/apps/details?id=air.setzer.skyworld)  /  [IOS](https://itunes.apple.com/us/app/skyworld-the-infinity-path/id1016581065)

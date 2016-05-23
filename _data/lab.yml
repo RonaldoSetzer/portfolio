@@ -2,14 +2,26 @@
   page-url: /lab/isometric_game/
   thumb: thumb_isometric_game.jpeg
 
-- title: "Madruga World"
-  page-url: /lab/madruga_world/
-  thumb: thumb_madruga_world.jpeg
+- title: "Platform-Game"
+  page-url: /lab/platform_game/
+  thumb: thumb_platform_game.jpeg
 
 - title: "Papervision Tile Game"
   page-url: /lab/papervision_tile_game/
   thumb: thumb_papervision_tile_game.jpeg
 
+- title: "Tile Game"
+  page-url: /lab/tile_game/
+  thumb: thumb_tile_game.jpeg
+
 - title: "Papervision Tile Map"
   page-url: /lab/papervision_tile_map/
   thumb: thumb_papervision_tile_map.jpeg
+
+- title: "A*(Pathfinder) - Game"
+  page-url: /lab/a_star_game/
+  thumb: thumb_a_star_game.jpeg
+
+- title: "A*(Pathfinder)"
+  page-url: /lab/a_star/
+  thumb: thumb_a_star.jpeg
