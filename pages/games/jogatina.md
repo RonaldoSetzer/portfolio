@@ -13,3 +13,9 @@ permalink: /games/jogatina/
 + **Tecnologies:** #SmartFox, #Protobuf #Socket
 + **Role:** Flash Developer - Core.
 + **Link:** [Jogatina](http://www.jogatina.com/)
+
+* * *
+
+###Screenshots###
+
+[![Jogatina]({{site.baseurl}}/images/screenshots/game_jogatina.png)]({{site.baseurl}}/images/screenshots/game_jogatina.png)

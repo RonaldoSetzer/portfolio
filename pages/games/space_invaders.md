@@ -12,3 +12,9 @@ permalink: /games/space_invaders/
 + **Language:** Actionscript 3.
 + **Tecnologies:** #StarlingFW, #Robotlegs1.5, #AdobeAir
 + **Role:** Developer / Graphic Design.
+
+* * *
+
+###Screenshots###
+
+[![Space Invaders]({{site.baseurl}}/images/screenshots/game_space_invaders.png)]({{site.baseurl}}/images/screenshots/game_space_invaders.png)

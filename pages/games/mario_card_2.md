@@ -11,3 +11,9 @@ permalink: /games/mario_card_2/
 + **Platform:** web.
 + **Language:** Actionscript 2.
 + **Role:** Developer/Graphic Design.
+
+* * *
+
+###Screenshots###
+
+[![Mario Card 2]({{site.baseurl}}/images/screenshots/game_mario_card_2.png)]({{site.baseurl}}/images/screenshots/game_mario_card_2.png)

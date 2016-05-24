@@ -12,3 +12,9 @@ permalink: /games/kinghtwish/
 + **Platform:** web.
 + **Language:** Actionscript 2.
 + **Role:** Developer.
+
+* * *
+
+###Screenshots###
+
+[![Knightwish]({{site.baseurl}}/images/screenshots/game_knightwish.png)]({{site.baseurl}}/images/screenshots/game_knightwish.png)

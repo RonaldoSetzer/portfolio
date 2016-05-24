@@ -12,3 +12,9 @@ permalink: /games/music_city/
 + **Language:** Actionscript 3.
 + **Tecnologies:** #FacebookAPI
 + **Role:** Flash Developer - Core.
+
+* * *
+
+###Screenshots###
+
+[![Music City]({{site.baseurl}}/images/screenshots/game_music_city.png)]({{site.baseurl}}/images/screenshots/game_music_city.png)

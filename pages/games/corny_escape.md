@@ -12,4 +12,16 @@ permalink: /games/corny_escape/
 + **Language:** Actionscript 3.
 + **Tecnologies:** #StarlingFW, #Robotlegs2, #AdobeAir
 + **Role:** Developer.
-+ **Download:** [Android](https://play.google.com/store/apps/details?id=air.setzer.corny.escape)
+
+* * *
+
+###Download###
+
+
++ **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.corny.escape).**
+
+* * *
+
+###Screenshots###
+
+[![Corny: Escape]({{site.baseurl}}/images/screenshots/game_corny_escape.png)]({{site.baseurl}}/images/screenshots/game_corny_escape.png)

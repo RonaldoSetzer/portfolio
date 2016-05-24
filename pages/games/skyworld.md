@@ -12,4 +12,16 @@ platform: Mobile
 + **Language:** Actionscript 3.
 + **Tecnologies:** #StarlingFW, #StarlingMVC, #Feathers, #AdobeAir
 + **Role:** Developer / Graphic Design.
-+ **Download:** [Android](https://play.google.com/store/apps/details?id=air.setzer.skyworld)  /  [IOS](https://itunes.apple.com/us/app/skyworld-the-infinity-path/id1016581065)
+
+* * *
+
+###Download###
+
++ **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.skyworld).**
++ **[IOS (Free)](https://itunes.apple.com/us/app/skyworld-the-infinity-path/id1016581065).**
+
+* * *
+
+###Screenshots###
+
+[![Skyworld]({{site.baseurl}}/images/screenshots/game_skyworld.png)]({{site.baseurl}}/images/screenshots/game_skyworld.png)

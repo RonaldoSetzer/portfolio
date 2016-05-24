@@ -12,3 +12,9 @@ permalink: /games/snake_game/
 + **Platform:** web.
 + **Language:** Actionscript 2.
 + **Role:** Developer/Graphic Design.
+
+* * *
+
+###Screenshots###
+
+[![Snake]({{site.baseurl}}/images/screenshots/game_snake_game.png)]({{site.baseurl}}/images/screenshots/game_snake_game.png)

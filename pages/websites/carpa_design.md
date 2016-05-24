@@ -12,3 +12,9 @@ permalink: /websites/carpa_design/
 + **Language:** Actionscript 3.
 + **Tecnologies:** #Papervision3D.
 + **Role:** Flash Developer.
+
+* * *
+
+###Screenshots###
+
+[![Carpa Design]({{site.baseurl}}/images/screenshots/web_carpa_design.png)]({{site.baseurl}}/images/screenshots/web_carpa_design.png)
