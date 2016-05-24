@@ -15,17 +15,17 @@ permalink: /games/sword_of_unknown/
 
 * * *
 
-###PixelArt###
+### PixelArt
 
-####**Heroes**####
+**Heroes**
 ![Heroes]({{site.baseurl}}/images/sword_of_unknown_heroes.png)
 
-####**Tile Set**####
+**Tile Set**
 ![Tile Set]({{site.baseurl}}/images/sword_of_unknown_tile_set_01.png)
 
 * * *
 
-###Gifs###
+### Gifs
 
 [![Cyclops]({{site.baseurl}}/images/gifs/sword_of_unknown_cyclop.png)](https://twitter.com/RonaldoSetzer/status/723739109827686400)
 [![Slimers]({{site.baseurl}}/images/gifs/sword_of_unknown_red_mage.png)](https://twitter.com/RonaldoSetzer/status/718786608296804352)
@@ -35,6 +35,6 @@ permalink: /games/sword_of_unknown/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Sword of Unknown]({{site.baseurl}}/images/screenshots/game_sword_of_unknown.png)]({{site.baseurl}}/images/screenshots/game_sword_of_unknown.png)
