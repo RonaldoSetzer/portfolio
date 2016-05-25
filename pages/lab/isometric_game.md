@@ -13,3 +13,14 @@ permalink: /lab/isometric_game/
 + **Language:** Actionscript 2.
 + **Tecnologies:** #TileSystem.
 + **Role:** Developer.
+
+* * *
+
+### Map
+
+The map of this prototype is based on Goof Troop (SNES).
+
+[![Map 01]({{site.baseurl}}/images/isometric_game_map_01.png)]({{site.baseurl}}/images/isometric_game_map_01.png)
+
+
+[![Map 02]({{site.baseurl}}/images/isometric_game_map_02.png)]({{site.baseurl}}/images/isometric_game_map_02.png)

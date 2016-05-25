@@ -15,13 +15,13 @@ permalink: /games/sudoku/
 
 * * *
 
-###Download###
+### Download
 
 + **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.sudoku)**
 + **[IOS (Free)](https://itunes.apple.com/us/app/sudoku-setzer/id1015680356)**
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Sudoku]({{site.baseurl}}/images/screenshots/game_sudoku.png)]({{site.baseurl}}/images/screenshots/game_sudoku.png)

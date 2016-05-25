@@ -14,6 +14,6 @@ permalink: /websites/oque/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![O Que?]({{site.baseurl}}/images/screenshots/web_oque.png)]({{site.baseurl}}/images/screenshots/web_oque.png)

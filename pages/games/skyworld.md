@@ -15,13 +15,20 @@ platform: Mobile
 
 * * *
 
-###Download###
+### Download
 
 + **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.skyworld).**
 + **[IOS (Free)](https://itunes.apple.com/us/app/skyworld-the-infinity-path/id1016581065).**
 
 * * *
 
-###Screenshots###
+### PixelArt
+
+[![pixelart]({{site.baseurl}}/images/skyworld_pixelart.png)]({{site.baseurl}}/images/skyworld_pixelart.png)
+
+
+* * *
+
+### Screenshots
 
 [![Skyworld]({{site.baseurl}}/images/screenshots/game_skyworld.png)]({{site.baseurl}}/images/screenshots/game_skyworld.png)

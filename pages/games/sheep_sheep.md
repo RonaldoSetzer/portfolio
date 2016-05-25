@@ -15,12 +15,19 @@ permalink: /games/sheep_sheep/
 
 * * *
 
-###Download###
+### Download
 
 + **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.sheepsheep).**
 
 * * *
 
-###Screenshots###
+### PixelArt
+
+[![pixelart]({{site.baseurl}}/images/sheep_sheep_pixelart.png)]({{site.baseurl}}/images/sheep_sheep_pixelart.png)
+
+
+* * *
+
+### Screenshots
 
 [![Sheep Sheep]({{site.baseurl}}/images/screenshots/game_sheep_sheep.png)]({{site.baseurl}}/images/screenshots/game_sheep_sheep.png)

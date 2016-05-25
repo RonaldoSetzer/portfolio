@@ -42,18 +42,3 @@
   page-url: /games/kinghtwish/
   thumb: thumb_knightwish.jpeg
   category: "web"
-
-- title: "Mario Card 2"
-  page-url: /games/mario_card_2/
-  thumb: thumb_mario_card_2.jpeg
-  category: "web"
-
-- title: "Mario Card - Memory Game"
-  page-url: /games/mario_card/
-  thumb: thumb_mario_card.jpeg
-  category: "web"
-
-- title: "Snake Game"
-  page-url: /games/snake_game/
-  thumb: thumb_snake_game.jpeg
-  category: "web"

@@ -15,6 +15,6 @@ permalink: /games/space_invaders/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Space Invaders]({{site.baseurl}}/images/screenshots/game_space_invaders.png)]({{site.baseurl}}/images/screenshots/game_space_invaders.png)

@@ -12,3 +12,9 @@ permalink: /websites/nicephotos_photobook/
 + **Language:** Actionscript 3 / FlexFramework.
 + **Tecnologies:** #FlexFramework.
 + **Role:** Flash Developer / Team Leader.
+
+* * *
+
+### Screenshots
+
+[![Nicephotos Photobook]({{site.baseurl}}/images/screenshots/web_nicephotos_photobook.png)]({{site.baseurl}}/images/screenshots/web_nicephotos_photobook.png)

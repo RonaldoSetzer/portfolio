@@ -16,6 +16,6 @@ permalink: /games/jogatina/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Jogatina]({{site.baseurl}}/images/screenshots/game_jogatina.png)]({{site.baseurl}}/images/screenshots/game_jogatina.png)

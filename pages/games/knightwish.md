@@ -15,6 +15,6 @@ permalink: /games/kinghtwish/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Knightwish]({{site.baseurl}}/images/screenshots/game_knightwish.png)]({{site.baseurl}}/images/screenshots/game_knightwish.png)

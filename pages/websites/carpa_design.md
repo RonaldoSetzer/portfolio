@@ -15,6 +15,6 @@ permalink: /websites/carpa_design/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Carpa Design]({{site.baseurl}}/images/screenshots/web_carpa_design.png)]({{site.baseurl}}/images/screenshots/web_carpa_design.png)

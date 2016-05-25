@@ -18,9 +18,11 @@ permalink: /games/sword_of_unknown/
 ### PixelArt
 
 **Heroes**
+
 ![Heroes]({{site.baseurl}}/images/sword_of_unknown_heroes.png)
 
 **Tile Set**
+
 ![Tile Set]({{site.baseurl}}/images/sword_of_unknown_tile_set_01.png)
 
 * * *

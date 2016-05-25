@@ -15,13 +15,13 @@ permalink: /games/corny_escape/
 
 * * *
 
-###Download###
+### Download
 
 
 + **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.corny.escape).**
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Corny: Escape]({{site.baseurl}}/images/screenshots/game_corny_escape.png)]({{site.baseurl}}/images/screenshots/game_corny_escape.png)

@@ -15,6 +15,6 @@ permalink: /games/music_city/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Music City]({{site.baseurl}}/images/screenshots/game_music_city.png)]({{site.baseurl}}/images/screenshots/game_music_city.png)

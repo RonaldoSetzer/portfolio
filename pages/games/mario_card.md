@@ -14,6 +14,6 @@ permalink: /games/mario_card/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Mario Card]({{site.baseurl}}/images/screenshots/game_mario_card.png)]({{site.baseurl}}/images/screenshots/game_mario_card.png)

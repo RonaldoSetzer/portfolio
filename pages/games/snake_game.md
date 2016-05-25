@@ -15,6 +15,6 @@ permalink: /games/snake_game/
 
 * * *
 
-###Screenshots###
+### Screenshots
 
 [![Snake]({{site.baseurl}}/images/screenshots/game_snake_game.png)]({{site.baseurl}}/images/screenshots/game_snake_game.png)

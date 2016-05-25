@@ -11,3 +11,9 @@ permalink: /websites/pinpix/
 + **Language:** Actionscript 2.
 + **Tecnologies:** #FlashDisplayList.
 + **Role:** Flash Developer.
+
+* * *
+
+### Screenshots
+
+[![Pinpix]({{site.baseurl}}/images/screenshots/web_pinpix.png)]({{site.baseurl}}/images/screenshots/web_pinpix.png)
