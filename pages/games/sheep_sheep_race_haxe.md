@@ -10,7 +10,21 @@ permalink: /games/sheep_sheep_race_haxe/
 + **Language:** Haxe.
 + **Tecnologies:** #haxe-pixiJs
 + **Role:** Developer / Graphic Design.
-+ **github: (Haxe Version)** [https://github.com/RonaldoSetzer/sheep-sheep-race-haxe](https://github.com/RonaldoSetzer/sheep-sheep-race-haxe)
-+ **github: (Actionscript Version)** [https://github.com/RonaldoSetzer/sheep-sheep-race](https://github.com/RonaldoSetzer/sheep-sheep-race)
+
 
 * * *
+
+### Source
+
++ **[GitHub: (Haxe / PixiJs)](https://github.com/RonaldoSetzer/sheep-sheep-race-haxe)**
++ **[GitHub: (Actionscript / Robotlegs 2.0 / Starling)](https://github.com/RonaldoSetzer/sheep-sheep-race)**
+
+* * *
+
+### Screenshots
+
+[![SheepSheepRaceHaxe 01]({{site.baseurl}}/images/screenshots/ss_sheep_sheep_race_haxe_01.png)]({{site.baseurl}}/images/screenshots/ss_sheep_sheep_race_haxe_01.png)
+
+[![SheepSheepRaceHaxe 02]({{site.baseurl}}/images/screenshots/ss_sheep_sheep_race_haxe_02.png)]({{site.baseurl}}/images/screenshots/ss_sheep_sheep_race_haxe_02.png)
+
+[![SheepSheepRaceHaxe 03]({{site.baseurl}}/images/screenshots/ss_sheep_sheep_race_haxe_03.png)]({{site.baseurl}}/images/screenshots/ss_sheep_sheep_race_haxe_03.png)
