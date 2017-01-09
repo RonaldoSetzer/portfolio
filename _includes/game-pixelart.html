@@ -1,0 +1,11 @@
+<div class="row text-center" style="padding: 25px 25px 25px 25px;">
+    <h3>PixelArt</h3>
+    <hr class="star-primary">
+    {% for list in page.pixelart %}
+    <p>
+        <a href="{{site.baseurl}}{{list}}">
+            <img src="{{site.baseurl}}{{list}}" class="img-responsive img-centered">
+        </a>
+    </p>
+    {% endfor %}
+</div>

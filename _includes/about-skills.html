@@ -1,0 +1,16 @@
+<div class="row text-center" style="padding: 25px 25px 25px 25px;">
+    <h3>Skill</h3>
+    <hr class="star-primary">
+</div>
+<div class="row">
+   {% for listItem in site.data.data-skills %}
+        <div class="col-sm-4 list-inline">
+            <p><h5>{{ listItem.name }} -  
+            {% for listItem in listItem.stars  %}  
+                <i class="fa fa-star"></i>
+            {% endfor %}
+            </h5>
+            </p>
+        </div>
+    {% endfor %}
+</div>

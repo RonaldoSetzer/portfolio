@@ -1,0 +1,11 @@
+<div class="row text-center" style="padding: 25px 25px 25px 25px;">
+    <h3>Screenshots</h3>
+    <hr class="star-primary">
+    {% for list in page.screenshots %}
+        <p>
+            <a href="{{site.baseurl}}/images/screenshots/{{list}}">
+                <img src="{{site.baseurl}}/images/screenshots/{{list}}" class="img-responsive img-centered">
+            </a>
+        </p>
+    {% endfor %}
+</div>

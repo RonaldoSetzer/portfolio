@@ -1,0 +1,44 @@
+- title: "Sword of Unknown"
+  page-url: /games/sword_of_unknown/
+  thumb: thumb_sword_of_unknown.png
+  category: "mobile"
+
+- title: "Music City"
+  page-url: /games/music_city/
+  thumb: thumb_music_city.png
+  category: "web-facebook"
+
+- title: "Jogatina"
+  page-url: /games/jogatina/
+  thumb: thumb_jogatina.png
+  category: "web"
+
+- title: "Skyworld: The Infinity Path"
+  page-url: /games/skyworld/
+  thumb: thumb_skyworld.png
+  category: "mobile"
+  
+- title: "Corny: Escape"
+  page-url: /games/corny_escape/
+  thumb: thumb_corny_escape.png
+  category: "mobile"
+
+- title: "Sheep Sheep"
+  page-url: /games/sheep_sheep/
+  thumb: thumb_sheep_sheep.png
+  category: "mobile"
+
+- title: "Sudoku"
+  page-url: /games/sudoku/
+  thumb: thumb_sudoku.png
+  category: "mobile"
+
+- title: "Space Invaders"
+  page-url: /games/space_invaders/
+  thumb: thumb_space_invaders.png
+  category: "mobile"
+  
+- title: "Knightwish"
+  page-url: /games/kinghtwish/
+  thumb: thumb_knightwish.png
+  category: "web"

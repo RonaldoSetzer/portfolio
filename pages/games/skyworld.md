@@ -1,34 +1,28 @@
 ---
-layout: page
+layout: game
 title: "Skyworld: The Infinity Path"
+site-category: "mobile"
 permalink: /games/skyworld/
-platform: Mobile
+
+#components
+list: ["cover-img", "description", "list-description", "downloads", "pixelart", "screenshots"]
+
+#cover img
+cover-img: "thumb_skyworld.png"
+
+#list-description
+category: Arcade / Endless.
+platform: Mobile.
+language: Actionscript 3.
+tecnologies: "StarlingFW, StarlingMVC, Feathers AdobeAir"
+role: Developer / Graphic Design.
+
+#downloads
+android: "https://play.google.com/store/apps/details?id=air.setzer.skyworld"
+
+#pixelart
+pixelart: ["/images/pixelart/pixelart_skyworld_01.png"]
+
+#screenshots
+screenshots: ["game_skyworld.png"]
 ---
-
-![cover]({{site.baseurl}}/images/thumb/thumb_skyworld.jpeg)
-
-+ **Category:** Arcade / Endless.
-+ **Platform:** Mobile.
-+ **Language:** Actionscript 3.
-+ **Tecnologies:** #StarlingFW, #StarlingMVC, #Feathers, #AdobeAir
-+ **Role:** Developer / Graphic Design.
-
-* * *
-
-### Download
-
-+ **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.skyworld).**
-+ **[IOS (Free)](https://itunes.apple.com/us/app/skyworld-the-infinity-path/id1016581065).**
-
-* * *
-
-### PixelArt
-
-[![pixelart]({{site.baseurl}}/images/skyworld_pixelart.png)]({{site.baseurl}}/images/skyworld_pixelart.png)
-
-
-* * *
-
-### Screenshots
-
-[![Skyworld]({{site.baseurl}}/images/screenshots/game_skyworld.png)]({{site.baseurl}}/images/screenshots/game_skyworld.png)

@@ -1,27 +1,25 @@
 ---
-layout: page
+layout: game
 title: "Sudoku"
-category: "mobile"
+site-category: "mobile"
 permalink: /games/sudoku/
+
+#components
+list: ["cover-img", "description", "list-description", "downloads", "screenshots"]
+
+#cover img
+cover-img: "thumb_sudoku.png"
+
+#list-description
+category: Puzzle.
+platform: Mobile.
+language: Actionscript 3.
+tecnologies: "StarlingFW, Robotlegs2, Feathers, AdobeAir"
+role: Developer / Graphic Design.
+
+#downloads
+android: "https://play.google.com/store/apps/details?id=air.setzer.sudoku"
+
+#screenshots
+screenshots: ["game_sudoku.png"]
 ---
-
-![cover]({{site.baseurl}}/images/thumb/thumb_sudoku.jpeg)
-
-+ **Category:** Puzzle.
-+ **Platform:** Mobile.
-+ **Language:** Actionscript 3.
-+ **Tecnologies:** #StarlingFW, #StarlingMVC, #Feathers, #AdobeAir
-+ **Role:** Developer / Graphic Design.
-
-* * *
-
-### Download
-
-+ **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.sudoku)**
-+ **[IOS (Free)](https://itunes.apple.com/us/app/sudoku-setzer/id1015680356)**
-
-* * *
-
-### Screenshots
-
-[![Sudoku]({{site.baseurl}}/images/screenshots/game_sudoku.png)]({{site.baseurl}}/images/screenshots/game_sudoku.png)

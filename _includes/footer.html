@@ -1,19 +1,41 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.portfolio_username }}</h2>
-
-    
-        
-            <a href="{{ site.duolingo_url }}" alt="Ronaldo.setzer"><img src="{{site.baseurl}}/images/icons/icon_duolingo.png"></a>
-            <a href="mailto:{{ site.email }}"><img src="{{site.baseurl}}/images/icons/icon_email.png"></a>
-            <a href="{{ site.twitter_url }}" alt="@RonaldoSetzer"><img src="{{site.baseurl}}/images/icons/icon_twitter.png"></a>
-            <a href="{{ site.linkedin_url }}"><img src="{{site.baseurl}}/images/icons/icon_linkedin.png"></a>
-            <a href="{{ site.github_url }}" alt="RonaldoSetzer"><img src="{{site.baseurl}}/images/icons/icon_github.png">
-
-     
-
-  </div>
-
-</footer>
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>Location</h3>
+                        <p>Rio de Janeiro
+                            <br>Brazil</p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Around the Web</h3>
+                        <ul class="list-inline">
+                            <li>
+                                <a href="mailto:{{ site.email }}" class="btn-social btn-outline"><i class="fa fa-fw fa-envelope"></i></a>
+                            </li>
+                            <li>
+                                <a href="{{ site.github_url }}" alt="User: RonaldoSetzer" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+                            </li>
+                            <li>
+                                <a href="{{ site.twitter_url }}" alt="Twitter: @RonaldoSetzer" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="{{ site.linkedin_url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Interests</h3>
+                        <p>Move forward in game development, always seeking to achieve new challenges.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row text-center">
+                     Published with <a href="https://pages.github.com/">GitHub Pages</a>, <a href="https://jekyllrb.com/">Jekyll</a>, <a href="http://startbootstrap.com">Bootstrap</a>   
+                </div>
+            </div>
+        </div>
+    </footer>

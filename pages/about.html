@@ -1,0 +1,22 @@
+---
+layout: default
+title: "About"
+permalink: /about/
+---
+<section id="about">
+    <div class="container">
+        <div class="row" style="padding: 25px 25px 25px 25px;">
+            <div class="col-lg-12 text-center">
+                <h2>{{ page.title }}</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+
+        {% include about-description.html %}
+        {% include about-languages.html %}
+        {% include about-skills.html %}
+        {% include about-certificates.html %}
+        
+    </div>
+</section>
+

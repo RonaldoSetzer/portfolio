@@ -1,0 +1,8 @@
+<div class="row text-center" style="padding: 25px 25px 25px 25px;">
+    <h3>Download</h3>
+    <hr class="star-primary">
+    {% if page.android %}<a href="{{ page.android }}" class="btn btn-lg btn-primary"><i class="fa fa-android"></i> Google Play</a>{% endif %}
+    {% if page.apk %}<a href="{{ page.apk }}" class="btn btn-lg btn-primary"><i class="fa fa-android"></i> Android APK</a>{% endif %}
+    {% if page.ios %}<a href="{{ page.ios }}" class="btn btn-lg btn-primary"><i class="fa fa-apple"></i> Apple Store</a>{% endif %}
+    {% if page.flash %}<a href="{{ page.flash }}" class="btn btn-lg btn-primary"><i class="fa fa-flash"></i> Flash SWF</a>{% endif %}
+</div>

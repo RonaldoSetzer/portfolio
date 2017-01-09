@@ -1,0 +1,91 @@
+---
+layout: default
+---
+<section>
+    <div class="container">
+        <div class="row" style="padding: 25px 25px 25px 25px;">
+            <div class="col-lg-12 text-center">
+                <h2>{{ page.title }}</h2>
+                <hr class="star-primary">
+                <h4>{{ page.site-category }}</h4>
+            </div>
+        </div>
+        
+        {% for list in page.list %}
+
+            {% if list == "cover-img"  %}
+                {% include game-cover-img.html %}
+            {% endif %}
+
+            {% if list == "cover-youtube"  %}
+                {% include game-cover-youtube.html %}
+            {% endif %}
+
+            {% if list == "cover-swf"  %}
+                {% include game-cover-swf.html %}
+            {% endif %}
+
+            {% if list == "cover-gif"  %}
+                {% include game-cover-gif.html %}
+            {% endif %}
+
+            {% if list == "list-description"  %}
+                {% include game-list-description.html %}
+            {% endif %}
+
+            {% if list == "content"  %}
+                 <div class="row">
+                    {{content}}
+                </div>
+            {% endif %}
+            {% if list == "description"  %}
+                <div class="row">
+                    {{ page.description }}
+                </div>
+            {% endif %}
+
+            {% if list == "downloads"  %}
+                {% include game-downloads.html %}
+            {% endif %}
+
+            {% if list == "pixelart" %}
+                {% include game-pixelart.html %}
+            {% endif %}
+
+            {% if list == "screenshots" %}
+                {% include game-screenshots.html %}
+            {% endif %}
+
+        {% endfor %}
+
+    </div>
+</section>
+<section id="portfolio" class="success">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h3>Others Games</h3>
+                <hr class="star-light">
+            </div>
+        </div>
+        <div class="row">
+  {% for listItem in site.data.data-games %}
+
+        {% if page.title  != listItem.title %}
+                <div class="col-sm-3 portfolio-item">
+                    <a href="{{site.baseurl}}{{listItem.page-url}}" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="{{site.baseurl}}/images/thumb/{{listItem.thumb}}" class="img-responsive" alt="">
+                    </a>
+                </div>
+        {% endif %}
+  {% endfor %}
+        </div>
+    </div>
+</section>
+
+

@@ -1,27 +1,25 @@
 ---
-layout: page
+layout: game
 title: "Corny: Escape"
-category: "mobile"
+site-category: "mobile"
 permalink: /games/corny_escape/
+
+#components
+list: ["cover-img", "description", "list-description", "downloads", "screenshots"]
+
+#cover img
+cover-img: "thumb_corny_escape.png"
+
+#list-description
+category: Arcade / Endless
+platform: Mobile
+language: Actionscript 3.
+tecnologies: "StarlingFW, Robotlegs2, AdobeAir"
+role: Developer
+
+#downloads
+android: "https://play.google.com/store/apps/details?id=air.setzer.corny.escape"
+
+#screenshots
+screenshots: ["game_corny_escape.png"]
 ---
-
-![cover]({{site.baseurl}}/images/thumb/thumb_corny_escape.jpeg)
-
-+ **Category:** Arcade / Endless.
-+ **Platform:** Mobile.
-+ **Language:** Actionscript 3.
-+ **Tecnologies:** #StarlingFW, #Robotlegs2, #AdobeAir
-+ **Role:** Developer.
-
-* * *
-
-### Download
-
-
-+ **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.corny.escape).**
-
-* * *
-
-### Screenshots
-
-[![Corny: Escape]({{site.baseurl}}/images/screenshots/game_corny_escape.png)]({{site.baseurl}}/images/screenshots/game_corny_escape.png)

@@ -1,0 +1,137 @@
+- name: "Build a Match 3 Game with Unity"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/build-a-match-3-game-with-unity"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "Scripting Unity with C#"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/scripting-unity-with-c"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "Unity 5 2D: Optimizing Graphics"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/unity-5-2d-optimizing-graphics"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "Managing Your Time"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/managing-your-time"
+  icon: "icon_linkedin.png"
+  category: Management
+
+- name: "Unity 5: Build a Real-Time Strategy Game"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/unity-5-build-a-real-time-strategy-game"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "C# Test Driven Development"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/c-test-driven-development"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "Creating Mobile Games with Unity"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/creating-mobile-games-with-unity"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "Foundations of Programming: Test-Driven Development"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/foundations-of-programming-test-driven-development"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "Foundations of Programming: Refactoring Code"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/foundations-of-programming-refactoring-code"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "C# Design Patterns"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/c-design-patterns"
+  icon: "icon_linkedin.png"
+  category: Development
+
+- name: "Flying Through Python"
+  platform: "Code School"
+  url: "https://www.codeschool.com/courses/flying-through-python"
+  icon: "icon_codeschool.png"
+  category: Development
+
+- name: "Try Django"
+  platform: "Code School"
+  url: "https://www.codeschool.com/courses/try-django"
+  icon: "icon_codeschool.png"
+  category: Development
+
+- name: "Digging Into Django"
+  platform: "Code School"
+  url: "https://www.codeschool.com/courses/digging-into-django"
+  icon: "icon_codeschool.png"
+  category: Development
+
+- name: "Git Real"
+  platform: "Code School"
+  url: "https://www.codeschool.com/courses/git-real"
+  icon: "icon_codeschool.png"
+  category: Tools
+
+- name: "Git Real 2"
+  platform: "Code School"
+  url: "https://www.codeschool.com/courses/git-real-2"
+  icon: "icon_codeschool.png"
+  category: Tools
+
+- name: "Breaking the Ice With Regular Expressions"
+  platform: "Code School"
+  url: "https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions"
+  icon: "icon_codeschool.png"
+  category: Tools
+
+- name: "Agile at Work: Planning with Agile User Stories"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/agile-at-work-planning-with-agile-user-stories"
+  icon: "icon_linkedin.png"
+  category: Management
+
+- name: "Agile at Work: Building Your Agile Team"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/agile-at-work-building-your-agile-team"
+  icon: "icon_linkedin.png"
+  category: Management
+
+- name: "Agile at Work: Reporting with Agile Charts and Boards"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/agile-at-work-reporting-with-agile-charts-and-boards"
+  icon: "icon_linkedin.png"
+  category: Management
+
+- name: "Agile at Work: Driving Productive Agile Meetings"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings"
+  icon: "icon_linkedin.png"
+  category: Management
+
+- name: "Agile at Work: Getting Better with Agile Retrospectives"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/agile-at-work-getting-better-with-agile-retrospectives"
+  icon: "icon_linkedin.png"
+  category: Management
+
+- name: "Managing Project Change"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/managing-project-change"
+  icon: "icon_linkedin.png"
+  category: Management
+
+- name: "C++ Essential Training"
+  platform: "LinkedIn"
+  url: "http://www.linkedin.com/learning/b31f5394-a1ca-3153-ba27-df66e59f210b"
+  icon: "icon_linkedin.png"
+  category: Development

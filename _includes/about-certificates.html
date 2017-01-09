@@ -1,0 +1,43 @@
+<div class="row" style="padding: 25px 25px 25px 25px;">
+    <h3 class="text-center">Certificates: Development</h3>
+    <hr class="star-primary text-center">
+
+   {% for listItem in site.data.data-certificates %}
+    {% if listItem.category == "Development" %}
+        <div class="col-lg-7 col-lg-offset-2" style="padding: 15px 25px 15px 25px;">
+            <img src="{{site.baseurl}}/images/icons/{{listItem.icon}}" class="img-responsive" style="float: left;padding: 0px 5px 0px 5px;">
+            <p><a href="{{ listItem.url }}"><b>{{ listItem.name }}</b></a></p>
+            <p><h6>{{ listItem.platform }}</h6></p>
+        
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+<div class="row" style="padding: 25px 25px 25px 25px;">
+    <h3 class="text-center">Certificates: Management</h3>
+    <hr class="star-primary text-center">
+    {% for listItem in site.data.data-certificates %}
+        {% if listItem.category == "Management" %}
+        <div class="col-lg-7 col-lg-offset-2" style="padding: 15px 25px 15px 25px;">
+            <img src="{{site.baseurl}}/images/icons/{{listItem.icon}}" class="img-responsive" style="float: left;padding: 0px 5px 0px 5px;">
+            <p><a href="{{ listItem.url }}"><b>{{ listItem.name }}</b></a></p>
+            <p><h6>{{ listItem.platform }}</h6></p>
+        
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+<div class="row" style="padding: 25px 25px 25px 25px;">
+    <h3 class="text-center">Certificates: Tools</h3>
+    <hr class="star-primary text-center">
+    {% for listItem in site.data.data-certificates %}
+        {% if listItem.category == "Tools" %}
+            <div class="col-lg-7 col-lg-offset-2" style="padding: 15px 25px 15px 25px;">
+                <img src="{{site.baseurl}}/images/icons/{{listItem.icon}}" class="img-responsive" style="float: left;padding: 0px 5px 0px 5px;">
+                <p><a href="{{ listItem.url }}"><b>{{ listItem.name }}</b></a></p>
+                <p><h6>{{ listItem.platform }}</h6></p>
+            
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>

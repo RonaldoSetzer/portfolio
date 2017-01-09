@@ -2,8 +2,10 @@ title: "Portfolio: Ronaldo Santiago"
 email: ronaldo.setzer@gmail.com
 description: > 
   Just a simple portfolio.
+  
 baseurl: "/portfolio"
 url: "https://ronaldosetzer.github.io"
+
 portfolio_username: Ronaldo Santiago
 twitter_url: https://www.twitter.com/RonaldoSetzer
 github_url:  https://github.com/RonaldoSetzer
@@ -12,3 +14,4 @@ linkedin_url: https://br.linkedin.com/in/ronaldo-santiago-a52b7017
 
 # Build settings
 markdown: kramdown
+

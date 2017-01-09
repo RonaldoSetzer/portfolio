@@ -1,33 +1,28 @@
 ---
-layout: page
+layout: game
 title: "Sheep Sheep"
-category: "mobile"
+site-category: "mobile"
 permalink: /games/sheep_sheep/
+
+#components
+list: ["cover-img", "description", "list-description", "downloads", "pixelart", "screenshots"]
+
+#cover img
+cover-img: "thumb_sheep_sheep.png"
+
+#list-description
+category: Arcade / Endless
+platform: Mobile
+language: Actionscript 3
+tecnologies: "StarlingFW, StarlingMVC, Feathers, AdobeAir"
+role: Developer / Graphic Design
+
+#downloads
+android: "https://play.google.com/store/apps/details?id=air.setzer.sheepsheep"
+
+#pixelart
+pixelart: ["/images/pixelart/pixelart_sheep_sheep_01.png"]
+
+#screenshots
+screenshots: ["game_sheep_sheep.png"]
 ---
-
-![cover]({{site.baseurl}}/images/thumb/thumb_sheep_sheep.jpeg)
-
-+ **Category:** Arcade / Endless.
-+ **Platform:** Mobile.
-+ **Language:** Actionscript 3.
-+ **Tecnologies:** #StarlingFW, #StarlingMVC, #Feathers, #AdobeAir
-+ **Role:** Developer / Graphic Design.
-
-* * *
-
-### Download
-
-+ **[Android (Free)](https://play.google.com/store/apps/details?id=air.setzer.sheepsheep).**
-
-* * *
-
-### PixelArt
-
-[![pixelart]({{site.baseurl}}/images/sheep_sheep_pixelart.png)]({{site.baseurl}}/images/sheep_sheep_pixelart.png)
-
-
-* * *
-
-### Screenshots
-
-[![Sheep Sheep]({{site.baseurl}}/images/screenshots/game_sheep_sheep.png)]({{site.baseurl}}/images/screenshots/game_sheep_sheep.png)
