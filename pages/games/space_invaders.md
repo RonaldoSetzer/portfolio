@@ -11,11 +11,11 @@ list: ["cover-img", "description", "list-description", "screenshots"]
 cover-img: "thumb_space_invaders.png"
 
 #list-description
-category: Arcade.
-platform: Mobile.
-language: Actionscript 3.
+category: Arcade
+platform: Mobile
+language: Actionscript 3
 tecnologies: "StarlingFW, Robotlegs 1.5, AdobeAir"
-role: Developer / Graphic Design.
+role: Developer / Graphic Design
 
 #downloads
 android: "https://play.google.com/store/apps/details?id=air.setzer.sudoku"

@@ -39,11 +39,17 @@ layout: default
                 </div>
             {% endif %}
             {% if list == "description"  %}
-                <div class="row col-lg-9 col-lg-offset-1 ">
-                    {{ page.description }}
+                <div class="row ">
+                    <div class="row col-lg-9 col-lg-offset-1 ">
+                        {{ page.description }}
+                    </div>
                 </div>
             {% endif %}
 
+            {% if list == "downloads"  %}
+                {% include game-downloads.html %}
+            {% endif %}
+            
             {% if list == "screenshots" %}
                 {% include game-screenshots.html %}
             {% endif %}

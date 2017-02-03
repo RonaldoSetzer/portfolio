@@ -11,11 +11,11 @@ list: ["cover-img", "description", "list-description", "downloads", "pixelart", 
 cover-img: "thumb_skyworld.png"
 
 #list-description
-category: Arcade / Endless.
-platform: Mobile.
-language: Actionscript 3.
+category: Arcade / Endless
+platform: mobile
+language: Actionscript 3
 tecnologies: "StarlingFW, StarlingMVC, Feathers AdobeAir"
-role: Developer / Graphic Design.
+role: Developer / Graphic Design
 
 #downloads
 android: "https://play.google.com/store/apps/details?id=air.setzer.skyworld"

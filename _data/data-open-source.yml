@@ -3,20 +3,20 @@
   thumb: thumb_palidor.png
   category: "mobile"
 
+- title: "GAME : Tetris"
+  page-url: /open_source/tetris/
+  thumb: thumb_tetris.png
+  category: "web/open-source"
+
 - title: "Sheep Sheep Race"
   page-url: /open_source/sheep_sheep_race/
   thumb: thumb_sheep_sheep_race.png
-  category: "web-facebook"
+  category: "web/facebook"
 
-# title: "Tetris"
-# page-url: /games/jogatina/
-# thumb: thumb_jogatina.png
-# category: "web"
-
-# title: "Space Invaders"
-# page-url: /games/skyworld/
-# thumb: thumb_skyworld.jpeg
-# category: "mobile"
+- title: "Sudoku Actionscript"
+  page-url: /open_source/Sudoku/
+  thumb: thumb_sudoku.png
+  category: "mobile/open-source"
   
 # title: "TowerDefense"
 # page-url: /games/jogatina/
