@@ -58,6 +58,12 @@
   icon: "icon_linkedin.png"
   category: Development
 
+- name: "Making Games With Phaser"
+  platform: "Updemy"
+  url: "https://www.udemy.com/making-games-with-phaser/"
+  icon: "icon_udemy.png"
+  category: Development
+
 - name: "Flying Through Python"
   platform: "Code School"
   url: "https://www.codeschool.com/courses/flying-through-python"

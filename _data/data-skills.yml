@@ -13,29 +13,31 @@
 - name: "Robotlegs"
   stars: [1,2,3,4]
 
-- name: "StarlingMVC"
-  stars: [1,2,3,4,5]
-
 - name: "C#"
   stars: [1,2,3]
 
 - name: "Unity3D"
   stars: [1,2,3]
-
 - name: "C++"
   stars: [1,2]
 
 - name: "Cocos2D-x"
   stars: [1]
 
-- name: "Haxe"
-  stars: [1,2]
+- name: "Phaser"
+  stars: [1,2,3]
 
-- name: "OpenFl"
+- name: "JavaScript"
   stars: [1,2,3]
 
 - name: "PixiJs"
   stars: [1,2]
+
+- name: "Haxe"
+  stars: [1,2,3]
+
+- name: "OpenFl"
+  stars: [1,2,3]
 
 - name: "Git"
   stars: [1,2,3]
@@ -53,6 +55,9 @@
   stars: [1,2,3]
 
 - name: "Python"
+  stars: [1,2]
+
+- name: "AngularJS"
   stars: [1,2]
 
   

@@ -8,6 +8,11 @@
   thumb: thumb_tetris.png
   category: "web/open-source"
 
+- title: "GAME : Space Invaders"
+  page-url: /open_source/space_invaders/
+  thumb: thumb_os_space_invaders.png
+  category: "web/open-source"
+
 - title: "Sheep Sheep Race"
   page-url: /open_source/sheep_sheep_race/
   thumb: thumb_sheep_sheep_race.png
