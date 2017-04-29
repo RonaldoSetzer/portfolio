@@ -33,15 +33,13 @@ web-page-url: https://ronaldosetzer.github.io/robotlegs-extensions-Palidor/
     </ul>
 </div>
 
-<div class="row" style="padding: 25px 25px 25px 25px;">
+<div class="row text-center" style="padding: 25px 25px 25px 25px;">
     <h3 class="text-center">Dependencies</h3>
     <hr class="star-primary">
-    <ul>
-        <li><p><a href="https://github.com/Gamua/Starling-Framework">Starling</a></p></li>
-        <li><p><a href="https://github.com/robotlegs/robotlegs-framework">Robotlegs 2</a></p></li>
-        <li><p><a href="https://flex.apache.org/download-flexunit.html">FlexUnit 4</a></p></li>
-        <li><p><a href="https://github.com/robertpenner/as3-signals">as3-signals</a></p></li>
-    </ul>
+    <p><a href="https://github.com/Gamua/Starling-Framework">Starling</a></p>
+    <p><a href="https://github.com/robotlegs/robotlegs-framework">Robotlegs 2</a></p>
+    <p><a href="https://flex.apache.org/download-flexunit.html">FlexUnit 4</a></p>
+    <p><a href="https://github.com/robertpenner/as3-signals">as3-signals</a></p>
 </div>
 <div class="row text-center" style="padding: 25px 25px 25px 25px;">
     <h3>More Details</h3>

@@ -3,6 +3,11 @@
   thumb: thumb_palidor.png
   category: "mobile"
 
+- title: "GAME : Match3"
+  page-url: /open_source/match3/
+  thumb: thumb_match3.png
+  category: "web/open-source"
+
 - title: "GAME : Tetris"
   page-url: /open_source/tetris/
   thumb: thumb_tetris.png
@@ -22,14 +27,4 @@
   page-url: /open_source/Sudoku/
   thumb: thumb_sudoku.png
   category: "mobile/open-source"
-  
-# title: "TowerDefense"
-# page-url: /games/jogatina/
-# thumb: thumb_jogatina.jpeg
-# category: "web"
-
-# title: "Match 3"
-# page-url: /games/skyworld/
-# thumb: thumb_skyworld.jpeg
-# category: "mobile"
   

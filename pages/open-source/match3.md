@@ -1,17 +1,17 @@
 ---
 layout: open-source
-title: "GAME : Space Invaders"
+title: "GAME : Match3"
 site- category: "web / Open-source"
-permalink: /open_source/space_invaders/
+permalink: /open_source/match3/
 
 #components
 list: ["cover-swf", "description", "list-description", "content", "screenshots"]
 
 #cover swf
-cover-swf: "/others/swfs/actionscript-spaceinvaders.swf"
+cover-swf: "/others/swfs/actionscript-match3.swf"
 cover-swf-width: 340
 cover-swf-height: 480
-cover-swf-description: "<b>Commands:</b> Arrows to move and Space to shoot"
+cover-swf-description: ""
 
 #description
 description: >
@@ -20,17 +20,17 @@ description: >
  <p>Designed to shows how to implements Starling, Robotlegs, and Palidor.</p>
 
 #list-description
-category: Arcade
+category: Puzzle
 platform: Web
 language: Actionscript 3
-tecnologies: "StarlingFW, Robotlegs, Palidor"
-role: Developer
+tecnologies: "StarlingFW, Robotlegs, Palidor, FlexUnit"
+role: Developer / Graphic Design
 
 #screenshots
-screenshots: ["ss_os_space_invaders_01.png","ss_os_space_invaders_02.png","ss_os_space_invaders_03.png","ss_os_space_invaders_04.png","ss_os_space_invaders_05.png","game_os_space_invaders.png"]
+screenshots: ["game_match3.png"]
 
 #urls
-github-as-url: https://github.com/RonaldoSetzer/GAME-SpaceInvaders
+github-as-url: https://github.com/RonaldoSetzer/GAME-Match3
 ---
 
 <div class="row text-center" style="padding: 25px 25px 25px 25px;">
@@ -38,7 +38,8 @@ github-as-url: https://github.com/RonaldoSetzer/GAME-SpaceInvaders
     <hr class="star-primary">
     <p><a href="https://github.com/Gamua/Starling-Framework">Starling</a></p>
     <p><a href="https://github.com/robotlegs/robotlegs-framework">Robotlegs 2</a></p>
-    <p><a href="https://github.com/RonaldoSetzer/robotlegs-extensions-Palidor">Palidor</a></p> 
+    <p><a href="https://github.com/RonaldoSetzer/robotlegs-extensions-Palidor">Palidor</a></p>
+    <p><a href="https://flex.apache.org/download-flexunit.html">FlexUnit 4</a></p>
 </div>
 
 <div class="row text-center" style="padding: 25px 25px 25px 25px;">

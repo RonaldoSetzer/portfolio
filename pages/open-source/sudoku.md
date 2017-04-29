@@ -27,15 +27,13 @@ screenshots: ["game_sudoku.png"]
 github-as-url: https://github.com/RonaldoSetzer/sudoku-actionscript
 ---
 
-<div class="row" style="padding: 25px 25px 25px 25px;">
+<div class="row text-center" style="padding: 25px 25px 25px 25px;">
     <h3 class="text-center">Dependencies</h3>
     <hr class="star-primary">
-    <ul>
-        <li><p><a href="https://github.com/Gamua/Starling-Framework">Starling</a></p></li>
-        <li><p><a href="http://www.starlingmvc.org/">StarlingMVC</a></p></li>
-        <li><p><a href="http://feathersui.com/">Feathers</a></p></li>
-        <li><p><a href="https://greensock.com/gsap-as">Green Sock</a></p></li>
-    </ul>
+    <p><a href="https://github.com/Gamua/Starling-Framework">Starling</a></p>
+    <p><a href="http://www.starlingmvc.org/">StarlingMVC</a></p>
+    <p><a href="http://feathersui.com/">Feathers</a></p>
+    <p><a href="https://greensock.com/gsap-as">Green Sock</a></p>
 </div>
 
 <div class="row text-center" style="padding: 25px 25px 25px 25px;">
