@@ -5,7 +5,10 @@ site- category: "web / Open-source"
 permalink: /open_source/match3/
 
 #components
-list: ["cover-swf", "description", "list-description", "content", "screenshots"]
+list: ["cover-img-hide","cover-swf", "description", "list-description", "content", "screenshots"]
+
+#cover img
+cover-img: "thumb_match3.png"
 
 #cover swf
 cover-swf: "/others/swfs/actionscript-match3.swf"
@@ -27,7 +30,7 @@ tecnologies: "StarlingFW, Robotlegs, Palidor, FlexUnit"
 role: Developer / Graphic Design
 
 #screenshots
-screenshots: ["game_match3.png"]
+screenshots: ["ss_match3_01.png","ss_match3_02.png","ss_match3_03.png","ss_match3_04.png","game_match3.png"]
 
 #urls
 github-as-url: https://github.com/RonaldoSetzer/GAME-Match3

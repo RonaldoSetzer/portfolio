@@ -9,7 +9,7 @@ list: ["cover-img", "description", "list-description","content", "downloads", "s
 
 #cover img
 cover-img: "thumb_sudoku.png"
-
+ 
 #list-description
 category: Puzzle
 platform: Mobile

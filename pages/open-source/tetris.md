@@ -5,7 +5,10 @@ site- category: "web / Open-source"
 permalink: /open_source/tetris/
 
 #components
-list: ["cover-swf", "description", "list-description", "content", "screenshots"]
+list: ["cover-img-hide","cover-swf", "description", "list-description", "content", "screenshots"]
+
+#cover img
+cover-img: "thumb_tetris.png"
 
 #cover swf
 cover-swf: "/others/swfs/actionscript-tetris.swf"

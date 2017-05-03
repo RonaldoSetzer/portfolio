@@ -5,7 +5,10 @@ site- category: "web / Open-source"
 permalink: /open_source/space_invaders/
 
 #components
-list: ["cover-swf", "description", "list-description", "content", "screenshots"]
+list: ["cover-img-hide","cover-swf", "description", "list-description", "content", "screenshots"]
+
+#cover img
+cover-img: "thumb_os_space_invaders.png"
 
 #cover swf
 cover-swf: "/others/swfs/actionscript-spaceinvaders.swf"
