@@ -3,19 +3,29 @@
   thumb: thumb_palidor.png
   category: "mobile"
 
-- title: "GAME : Match3"
+- title: "GAME - Match3 - AS3"
   page-url: /open_source/match3/
-  thumb: thumb_match3.png
+  thumb: thumb_os_match3_as.png
   category: "web/open-source"
 
-- title: "GAME : Tetris"
-  page-url: /open_source/tetris/
-  thumb: thumb_tetris.png
+- title: "GAME - Tetris - TypeScript"
+  page-url: /open_source/tetris_ts/
+  thumb: thumb_os_tetris_ts.png
   category: "web/open-source"
 
-- title: "GAME : Space Invaders"
-  page-url: /open_source/space_invaders/
-  thumb: thumb_os_space_invaders.png
+- title: "GAME - Tetris - AS3"
+  page-url: /open_source/tetris_as/
+  thumb: thumb_os_tetris_as.png
+  category: "web/open-source"
+
+- title: "GAME - Space Invaders - TypeScript"
+  page-url: /open_source/space_invaders_ts/
+  thumb: thumb_os_space_invaders_ts.png
+  category: "web/open-source"
+
+- title: "GAME - Space Invaders - AS3"
+  page-url: /open_source/space_invaders_as/
+  thumb: thumb_os_space_invaders_as.png
   category: "web/open-source"
 
 - title: "Sheep Sheep Race"
@@ -24,7 +34,7 @@
   category: "web/facebook"
 
 - title: "Sudoku Actionscript"
-  page-url: /open_source/Sudoku/
+  page-url: /open_source/sudoku/
   thumb: thumb_sudoku.png
   category: "mobile/open-source"
   

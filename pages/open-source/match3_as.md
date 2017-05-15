@@ -1,14 +1,14 @@
 ---
 layout: open-source
-title: "GAME : Match3"
-site- category: "web / Open-source"
+title: "GAME - Match3 - AS3"
+site-category: "web / Open-source"
 permalink: /open_source/match3/
 
 #components
 list: ["cover-img-hide","cover-swf", "description", "list-description", "content", "screenshots"]
 
 #cover img
-cover-img: "thumb_match3.png"
+cover-img: "thumb_os_match3_as.png"
 
 #cover swf
 cover-swf: "/others/swfs/actionscript-match3.swf"
@@ -18,9 +18,9 @@ cover-swf-description: ""
 
 #description
 description: >
- <p>This is an open-source game which was developed with the Actionscript language and all source is available on GitHub.</p>
+ <p>This is an open-source game which was developed with the Actionscript language and all sources are available on GitHub.</p>
 
- <p>Designed to shows how to implements Starling, Robotlegs, and Palidor.</p>
+ <p>Developed to shows how to integrate Starling, Robotlegs, and Palidor.</p>
 
 #list-description
 category: Puzzle
@@ -30,7 +30,7 @@ tecnologies: "StarlingFW, Robotlegs, Palidor, FlexUnit"
 role: Developer / Graphic Design
 
 #screenshots
-screenshots: ["ss_match3_01.png","ss_match3_02.png","ss_match3_03.png","ss_match3_04.png","game_match3.png"]
+screenshots: ["ss_os_match3_as_01.png","ss_os_match3_as_02.png","ss_os_match3_as_03.png","ss_os_match3_as_04.png","game_os_match3_as.png"]
 
 #urls
 github-as-url: https://github.com/RonaldoSetzer/GAME-Match3
