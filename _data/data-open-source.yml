@@ -3,8 +3,13 @@
   thumb: thumb_palidor.png
   category: "mobile"
 
+- title: "GAME - Match3 - TypeScript"
+  page-url: /open_source/match3_ts/
+  thumb: thumb_os_match3_ts.png
+  category: "web/open-source"
+
 - title: "GAME - Match3 - AS3"
-  page-url: /open_source/match3/
+  page-url: /open_source/match3_as/
   thumb: thumb_os_match3_as.png
   category: "web/open-source"
 
